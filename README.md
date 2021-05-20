@@ -6,10 +6,3 @@ POSIX threads (pthreads) are also utlized.
 
 This project contains my own personal work from the Ryerson Engineering course ELE 709.
 
-## Experiment 1:  C Review
-### Objective:
-- To briefly review the C programming language.
-- To become familiarized with the software development environment in Linux.
-
-### Excersises:
-#### Ex 1.1
